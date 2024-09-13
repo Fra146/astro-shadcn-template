@@ -1,11 +1,13 @@
 # shadcn/ui + astro template
 
+## Setup
 ```bash
 npm install
 npx shadcn@latest init
 ```
 ---
 
+## Usage with the button component
 ```bash
 npx shadcn@latest add button
 ```
