@@ -11,6 +11,7 @@ npx shadcn@latest init
 ```bash
 npx shadcn@latest add button
 ```
+index.html
 ```html
 ---
 import { Button } from "@/components/ui/button"
